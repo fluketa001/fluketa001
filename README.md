@@ -1,4 +1,4 @@
-- 👋 Hi, I’m fluketa001, I'm Thai and I speak little English.
+- 👋 Hi, I’m fluke, I'm Thai and I speak little English.
 
 - 👀 I am now interested in the development of the Golang. 
 I'm pretty new to it. But it's an interesting language. But strangely, I should have written the nodeJS as well. 
