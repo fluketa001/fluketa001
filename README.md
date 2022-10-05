@@ -11,6 +11,6 @@ fluketa001/fluketa001 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Codestats](https://codestats.net/users/fluketa001/organizations/an-organization/projects/a-project/badge)]((https://codestats.net/users/fluketa001/organizations/an-organization/projects/a-project/badge)
+[![Codestats](http://codestats.net/users/fluketa001/organizations/an-organization/projects/a-project/badge)]((http://codestats.net/users/fluketa001/organizations/an-organization/projects/a-project/badge)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=fluketa001)](https://github.com/ryo-ma/github-profile-trophy)
